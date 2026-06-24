@@ -1,7 +1,7 @@
 # Medicalbot
 
-clone the repository
- project repo: https://github.com/KiuPhuong/Medicalbot.git
+### clone the repository
+project repo: https://github.com/KiuPhuong/Medicalbot.git
 
 ## Setup Environment
 ### STEP 1
